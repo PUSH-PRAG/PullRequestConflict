@@ -1,3 +1,5 @@
 push
 agal
 praga
+white
+blue
