@@ -1,0 +1,6 @@
+GIT
+jenkins
+docker
+kubernetes
+Ansible
+
