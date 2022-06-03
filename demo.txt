@@ -1,6 +1,7 @@
 GIT
 jenkins
 docker
-kubernetes
-Ansible
+terraform
+maven
+
 
