@@ -1,7 +1,0 @@
-GIT
-jenkins
-docker
-terraform
-maven
-
-
