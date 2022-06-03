@@ -3,3 +3,5 @@ agal
 praga
 white
 blue
+yellow
+green
