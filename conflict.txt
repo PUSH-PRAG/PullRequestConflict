@@ -1,7 +1,0 @@
-push
-agal
-praga
-1
-2
-3
-4
