@@ -1,5 +1,7 @@
 push
 agal
 praga
-yellow
-green
+1
+2
+3
+4
